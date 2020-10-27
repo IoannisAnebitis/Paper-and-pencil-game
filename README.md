@@ -1,1 +1,1 @@
-# Paper-and-pencil-game
+# Paper and pencil game
